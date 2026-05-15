@@ -1,7 +1,12 @@
 
-const language = "JavaScript";
-
-console.log(language.length);
-console.log(language[0]);
-console.log(language[language.length-1]);
+> const username = "richyDev42";
+undefined
+> const email = "RICHY@GMAIL.COM";
+undefined
+> console.log(username.toUpperCase());
+RICHYDEV42
+undefined
+> console.log(email.toLowerCase());
+richy@gmail.com
+undefined
 

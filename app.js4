@@ -1,0 +1,14 @@
+> const dashes = "-";
+undefined
+> const repeateddashes = dashes.repeat(40);
+undefined
+> console.log(repeateddashes);
+----------------------------------------
+undefined
+> const asterisks = "*";
+undefined
+> const repeatedasterisks = asterisks.repeat(20);
+undefined
+> console.log(repeatedasterisks);
+********************
+undefined

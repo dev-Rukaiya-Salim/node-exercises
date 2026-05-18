@@ -1,0 +1,13 @@
+ const rawInput = "   Alice   ";
+undefined
+> const trimrawInput = rawInput.trim();
+undefined
+> console.log(trimrawInput);
+Alice
+undefined
+> console.log(trimrawInput.length);
+5
+undefined
+> console.log(rawInput.length);
+11
+undefined

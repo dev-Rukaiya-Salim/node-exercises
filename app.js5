@@ -1,0 +1,11 @@
+> const title = "Dr.";
+undefined
+> const lastName = "Wanyama";
+undefined
+> const timeOfDay = "morning";
+undefined
+> const msg1 = "Good " + timeOfDay + "," + title + lastName + "!" + "Welcome back" + ".";
+undefined
+> console.log(msg1);
+Good morning,Dr.Wanyama!Welcome back.
+undefined

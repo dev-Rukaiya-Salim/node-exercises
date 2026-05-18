@@ -1,0 +1,11 @@
+> const sentence = "Nairobi is Kenya's tech hub.";
+undefined
+> console.log(sentence.includes("Kenya"));
+true
+undefined
+> console.log(sentence.startsWith("Nairobi"));
+true
+undefined
+> console.log(sentence.endsWith("hub."));
+true
+undefined

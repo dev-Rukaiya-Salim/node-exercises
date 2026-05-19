@@ -1,0 +1,11 @@
+> const email = "richy@gmail.com";
+undefined
+> const atIndex = email.indexOf("@");
+undefined
+> const dotIndex = email.indexOf(".");
+undefined
+> const domain = email.slice(atIndex + 1, dotIndex);
+undefined
+> console.log(domain);
+gmail
+undefined
